@@ -10466,10 +10466,10 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
-smart-datav-npm@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/smart-datav-npm/-/smart-datav-npm-1.0.6.tgz#2057777717776a55186732bf9216b66d4a34cd60"
-  integrity sha512-MygDjuhWBDaYRmv+V6v5AZmbW25zc2LqnyDwnE5XLzGuR5W9tcqzn/kj8CyklWUMMUnUGqoU0yNpa5ZyPEwymw==
+smart-datav-npm@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/smart-datav-npm/-/smart-datav-npm-1.0.8.tgz#8b3f402b3c5404419580fd603600ee98af33e0ba"
+  integrity sha512-NqcuAX47WHoZm+R6KPUqjL+sfHsLOOtv4gjh71DrSQQ4KTaaHOGJI9g5FVCm7UJz05ebKpc3GA2oSyb9nCYppQ==
   dependencies:
     "@ant-design/icons" "4.2.2"
     "@loadable/component" "^5.13.2"
